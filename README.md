@@ -1,3 +1,3 @@
-# img
+# Gallery
 
-GitHub image bed for blogs
+GitHub Image Bad For Websites
