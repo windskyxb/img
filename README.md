@@ -1,3 +1,3 @@
 # Gallery
 
-GitHub Image Bad For Websites
+GitHub Image For Websites
